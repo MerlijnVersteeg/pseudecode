@@ -1,0 +1,12 @@
+Overeenkomsten
+--------------
+Het blokje moet over de "spike" springen.
+Hete blokje gaat automatisch naar rechts.
+
+geen afwijking
+--------------
+Animatie in paint
+
+Hoe kan ik dit verbeteren
+-------------------------
+De game duidelijker maken.
